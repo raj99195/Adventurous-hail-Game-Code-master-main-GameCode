@@ -1,5 +1,5 @@
 Adventurous Hail Game 🌨️🎯
-Adventurous Hail Game is a fast-paced Web3 arcade game where precision and reflexes meet blockchain rewards. Built on the Somnia Test Network, players catch falling hail blocks in matching bins to score points — and earn real ERC-20 tokens instantly via Thirdweb integration.
+Adventurous Hail Game is a fast-paced arcade game where precision and reflexes meet rewards.  players catch falling hail blocks in matching bins to score points
 
 🚀 Core Features
 🎮 Dynamic Gameplay – Match falling hail to the right bins for maximum points.
